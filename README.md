@@ -34,3 +34,7 @@ to contact me :
 <a href="https://tryhackme.com/p/devalfo">TryHackMe</a>
 
 email : devalfo@protonmail.com 
+
+<h1> Note </h1>
+
+Guys the tool is under developement and i'll try my best to update it so please don't judge me 
