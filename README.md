@@ -19,7 +19,8 @@ $ ./enumapp.sh
 enjoyy :)
 
 
-Thanks 
+<h1>Thanks </h1>
+
 speacial thanks to aboul3la fo using his tool (sublist3r)
 
 <h1>Screenshots</h1>
